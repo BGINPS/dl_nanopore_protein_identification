@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pkl
+
+## data directory
+data/
+
+# Distribution / packaging
+.Python
+build/
+logs/
+.idea/
+.vscode/
+./notebooks/ipynb_checkpoints/
+delete/
+log/
+
